@@ -1,6 +1,8 @@
 # Note Taking website
 
 -This website is note organizer application.
+- Admin Email:admin@gmail.com, pass: admin123
+  
 
 ### Website Link: "https://notes-f4c7f.web.app/"
 ### Website Link: "https://github.com/FowziaSultana/Note-Nest-server-side"
@@ -14,6 +16,7 @@
 - Note-filtering functionality depending on specified categories.
 - One can add photos and link them to notes.
 - One can search for individual notes based on titles .
+- Admin have to authorize a user first then a user can create note.Admin can do this after loging in and going to dashboard where he will find manage users option
 
 ### Technologies used for building this website
 
