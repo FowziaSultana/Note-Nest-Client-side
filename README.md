@@ -6,13 +6,13 @@
 
 ### Features
 
--Note creation, viewing, updating, and deletion.
--To safeguard user data, implemented user registration and login features.
--Only authorized users should be able to create, modify, and remove notes.
--Users can categorize their notes for better organization.
--Note-filtering functionality depending on specified categories.
--One can add photos and link them to notes.
--One can search for individual notes based on titles .
+- Note creation, viewing, updating, and deletion.
+- To safeguard user data, implemented user registration and login features.
+- Only authorized users should be able to create, modify, and remove notes.
+- Users can categorize their notes for better organization.
+- Note-filtering functionality depending on specified categories.
+- One can add photos and link them to notes.
+- One can search for individual notes based on titles .
 
 ### Technologies used for building this website
 
